@@ -1,0 +1,1 @@
+print("Hospital Appointment System Released Successfully")
